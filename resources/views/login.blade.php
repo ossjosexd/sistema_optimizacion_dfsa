@@ -20,7 +20,7 @@
             </p>
         @enderror
 
-        <h2>Bienvenido al Sistema de Inventario</h2>
+        <h2>Bienvenido al Sistema de Inventario de Díaz Frontado, S.A.</h2>
         
         <form method="POST" action="{{ route('do.login') }}">
             
